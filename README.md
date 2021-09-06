@@ -3,7 +3,7 @@ Personal stars.
 
 ## Vim
 
-[vim-table-mode](https://github.com/dhruvasagar/vim-table-mode)
+1. [vim-table-mode](https://github.com/dhruvasagar/vim-table-mode)
 
 
 
